@@ -1,1 +1,1 @@
-[![hello-world](https://github.com/AndreyKrymski/hexlet-js/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AndreyKrymski/hexlet-js/actions/workflows/hexlet-check.yml)
+[![Git-hub-actions](https://github.com/AndreyKrymski/frontend-project-lvl1/workflows/github-actions.yml/badge.svg)](https://github.com/AndreyKrymski/frontend-project-lvl1/actions)
