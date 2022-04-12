@@ -1,1 +1,3 @@
-[![hello-world](https://github.com/AndreyKrymski/hexlet-js/actions/workflows/hexlet-check.yml/badge.svg?event=status)](https://github.com/AndreyKrymski/hexlet-js/actions/workflows/hexlet-check.yml)
+Status of Last Deployment:<br>
+<img src = "https://github.com/AndreyKrymski/hexlet-js/workflows/hello-world/badge.svg?event=status><br>
+Copy left by Andrey Krymski 2022.
